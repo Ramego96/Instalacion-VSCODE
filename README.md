@@ -49,7 +49,7 @@ Sudo snap install --classic code
 
 ## Repositorio Github
 
-
+https://github.com/Ramego96/Instalacion-VSCODE/blob/main/README.md
 
 
 
