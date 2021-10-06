@@ -9,6 +9,8 @@
 #### Introducción
 #### Verificación del Java
 #### Instalación de Vs code
+#### Extensiones del VsCode
+#### Extensiones del VsCode
 #### Lanzamiento de Vs Code
 #### Repositorio Github
 
@@ -60,7 +62,58 @@ Sudo snap install --classic code
 <br>
 <br>
 
-#### Ahora manos a la obra y a currar con codigos, suerte !!!
+## Extensiones del VsCode
+
+### Visual Studio IntelliCode
+
+<br>
+
+![VisualStudioIntelliCode](https://user-images.githubusercontent.com/78496018/136265062-16f429ad-2714-48e5-b577-5542badd8815.jpg)
+
+
+### Path Intellisense
+
+<br>
+
+![PathIntellisense](https://user-images.githubusercontent.com/78496018/136265094-3f8a4261-0b41-4053-84f7-819136d9f86f.jpg)
+
+
+### Bracket Pair Colorizer
+
+<br>
+
+![BracketPairColorizer](https://user-images.githubusercontent.com/78496018/136265137-bdd9d1f0-d835-4958-ac5a-928958d725cc.jpg)
+
+
+### GitLens
+
+<br>
+
+![GitLens](https://user-images.githubusercontent.com/78496018/136265116-f3b8b982-07e7-4c97-9a7f-a5402d98d208.jpg)
+
+
+### Prettier
+
+<br>
+
+![Prettier](https://user-images.githubusercontent.com/78496018/136265083-cca29bc4-6c3a-4975-9bcf-d0281faad07b.jpg)
+
+
+### Color Highlight
+
+<br>
+
+![ColorHighlight](https://user-images.githubusercontent.com/78496018/136265125-70c83db3-7fb0-4cc4-9959-0f7ab9fb8f3f.jpg)
+
+
+### Indent Rainbow
+
+<br>
+
+![IndentRainbow](https://user-images.githubusercontent.com/78496018/136265107-43d74755-6eb7-4e2a-9112-5bb110edc0b3.jpg)
+
+
+#### Ahora a trabajar con codigo !!!
 
 <br>
 <br>
