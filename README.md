@@ -1,15 +1,28 @@
 # Instalacion-VSCODE
-### Alumno: Ricardo Adrián Medina Gómez
+### Guía elaborada por Ricardo Adrián Medina Gómez
 
 <br>
 <br>
 
-# Indice
+# Índice
 
+#### Introducción
 #### Verificación del Java
 #### Instalación de Vs code
 #### Lanzamiento de Vs Code
 #### Repositorio Github
+
+<br>
+<br>
+
+## Introducción
+
+#### Visual Studio Code es multiplataforma, por lo que lo podemos encontrar disponible para Gnu/Linu, Windows y macOS. Se basa en Electron y NodeJS para el      escritorio y se ejecuta en el motor de diseño Blink.
+
+<br>
+<br>
+
+### ¡¡¡Ahora vamos con la instalación!!!
 
 <br>
 <br>
@@ -43,6 +56,11 @@ Sudo snap install --classic code
 
 #### Después de estar instalado ya podemos abrir el Visual Studio Code.
 ![listo](https://user-images.githubusercontent.com/78496018/136239259-d035956c-8fa9-4284-9975-32fc027dce28.jpg)
+
+<br>
+<br>
+
+#### Ahora manos a la obra y a currar con codigos, suerte !!!
 
 <br>
 <br>
